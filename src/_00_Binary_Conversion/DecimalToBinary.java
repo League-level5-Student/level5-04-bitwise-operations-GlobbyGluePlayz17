@@ -56,7 +56,7 @@ public class DecimalToBinary {
 		 * 
 		*/
 		
-		System.out.println( convertDecimalToBinary( 43 ) );
+		System.out.println( convertDecimalToBinary( -1 ) ); //huuuuuuuuu worked or no? prob no?  //111111111111 infinite, number of digits depends on how many bits your counting
 	}
 	
     public static String convertDecimalToBinary(int decimalNum) {
